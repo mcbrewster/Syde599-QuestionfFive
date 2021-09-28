@@ -1,13 +1,13 @@
 # Syde599-QuestionfFive
 
-##To build 
+## To build 
 From terminal run :
 ``` 
 javac QuestionFive.java 
 
 ```
 
-##To run 
+## To run 
 From terminal run :
 ``` 
 java QuestionFive p i
